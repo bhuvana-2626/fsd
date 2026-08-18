@@ -1,3 +1,4 @@
+export {};
 let number: number = 28;
 let sum = 0;
 

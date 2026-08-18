@@ -1,5 +1,5 @@
 // PROGRAM 1 : Function without Return
-
+export {};
 
 console.log(" Program 1");
 

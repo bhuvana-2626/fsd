@@ -1,3 +1,4 @@
+export {};
 let text: string = "programming";
 
 let result = "";

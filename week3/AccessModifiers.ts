@@ -1,5 +1,5 @@
 // Program 1 : Public Access Modifier
-
+export {};
 
 class Student {
     public name: string;
@@ -13,7 +13,7 @@ class Student {
     }
 }
 
-let s1 = new Student("Hansika");
+let s1 = new Student("Bhuvana");
 console.log("Accessing Public Variable:", s1.name);
 s1.display();
 

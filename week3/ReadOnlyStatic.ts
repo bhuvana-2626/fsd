@@ -1,6 +1,6 @@
 // Program 1 : Readonly Property
 // 
-
+export {};
 class Student {
     readonly rollNo: number;
 

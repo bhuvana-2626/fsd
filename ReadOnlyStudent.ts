@@ -1,3 +1,4 @@
+export {};
 class Student {
     readonly studentId: number;
     name: string;
@@ -13,6 +14,6 @@ class Student {
     }
 }
 
-let student = new Student(01, "Bhuvana");
+let student = new Student(1, "Bhuvana");
 
 student.display();

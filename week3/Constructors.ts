@@ -1,6 +1,6 @@
 // Program 1 : Default Constructor
 
-
+export {};
 class Student {
     name: string;
 
